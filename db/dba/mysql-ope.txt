@@ -1,0 +1,14 @@
+* Login
+
+C:\mysql\bin\mysql -u root -p
+
+*
+
+status
+show status;
+show variables like 'char%';
+
+* select database
+
+use database_name;
+
