@@ -1,3 +1,9 @@
+* run server
+C:\mysql\bin\mysqld
+
+* stop server
+C:\mysql\bin\mysqladmin shutdown -u root -p
+
 * Login
 
 C:\mysql\bin\mysql -u root -p
@@ -12,3 +18,10 @@ show variables like 'char%';
 
 use database_name;
 
+* show database selected
+
+select database();
+
+* show all tables list;
+
+show tables;
