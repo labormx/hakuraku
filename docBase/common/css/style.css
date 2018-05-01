@@ -1,0 +1,15 @@
+#container {
+	margin : auto;
+	width : 800px;
+}
+
+body {
+	font-family: 'Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+}
+
+tr {
+	vertical-align: top;
+}
+.option-sentence {
+	padding: 1px 10px 5px;
+}
