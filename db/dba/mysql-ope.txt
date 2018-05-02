@@ -25,3 +25,8 @@ select database();
 * show all tables list;
 
 show tables;
+
+* execute sql file
+
+source sqlfile.sql
+
