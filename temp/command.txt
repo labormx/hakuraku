@@ -1,0 +1,12 @@
+# git 最初だけ
+git clone https://github.com/labormx/hakuraku.git
+
+
+# git pull
+cd ~/work/hakuraku
+git pull origin master
+
+# copy
+cp -pr ~/work/hakuraku/docBase/* ~/web
+
+
